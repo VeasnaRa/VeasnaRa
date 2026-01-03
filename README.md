@@ -1,97 +1,63 @@
-<h1 align="center">Hii 👋 I'm Veasna RA</h1>
+<h1 align="center">Hi 👋 I'm Veasna RA</h1>
 
-###
+<p align="center">
+  Passionate about <b>Data Science</b>, <b>Machine Learning</b>, <b>Artificial Intelligence</b>, and <b>Programming</b>.<br>
+  Curious, motivated, and always eager to learn and tackle new challenges 🚀
+</p>
 
-<p align="left">I am passionate about data science, machine learning, artificial intelligence (AI), and programming.  I enjoy exploring the new thing and am eager to learn and tackle new challenges.</p>
+---
 
-###
+## 👨‍🎓 About Me
 
-<h2 align="left">About me</h2>
+📚 Engineering student in Computer Science & Applied Mathematics at **École Nationale Supérieure d’Informatique pour l’Industrie et l’Entreprise (ENSIIE)**  
+🎓 Double Master’s degree (M1) at **Université Paris-Saclay**, France  
 
-###
+💡 Interests:
+- Data Science & Statistical Analysis  
+- Machine Learning & Deep Learning  
+- Artificial Intelligence  
+- Software & Systems Programming  
 
-<p align="left">📚 I'm an engineering student pursuing computer science and applied mathematics at École Nationale Supérieure d’Informatique pour l’Industrie et l’Entreprise (ENSIIE) and doing a double master's degree (M1) at Université Paris-Saclay in France.</p>
+---
 
-###
+## 🛠️ Skills & Technologies
 
-<h2 align="left">Skills & Technologies</h2>
+### 💻 Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,ocaml,r&perline=6)](https://skillicons.dev)
 
-###
+### 📊 Data Science & Machine Learning
+[![My Skills](https://skillicons.dev/icons?i=pytorch,numpy,pandas&perline=6)](https://skillicons.dev)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg" height="40" alt="ocaml logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
+### 🗄️ Databases & Web
+[![My Skills](https://skillicons.dev/icons?i=postgresql,html,css&perline=6)](https://skillicons.dev)
 
-  ###
+### ⚙️ Tools & Environment
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,git,gitlab,vscode,gcc,cmake&perline=7)](https://skillicons.dev)
 
-  <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openal/openal-original.svg" height="40" alt="openal logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" height="40" alt="gcc logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40" alt="cmake logo"  />
-</div>
+---
 
-###
+## 📈 GitHub Statistics
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VeasnaRa&show_icons=true&theme=dracula" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeasnaRa&layout=compact&theme=dracula" height="160"/>
+</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VeasnaRa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VeasnaRa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+## 🌐 Connect with Me
 
-###
+[![Socials](https://skillicons.dev/icons?i=linkedin,discord&perline=5)](https://skillicons.dev)
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/veasna-ra/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="veasnara." target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-</div>
+- 💼 **LinkedIn**: [https://www.linkedin.com/in/veasna-ra/](https://www.linkedin.com/in/veasna-ra/)
+- 💬 **Discord**: `veasnara.`
 
-###
+---
+
+## 🟡 Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VeasnaRa/VeasnaRa/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VeasnaRa/VeasnaRa/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/VeasnaRa/VeasnaRa/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/VeasnaRa/VeasnaRa/output/pacman-contribution-graph.svg">
 </picture>
-
-###
