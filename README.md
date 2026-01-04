@@ -29,16 +29,21 @@
 [![My Skills](https://skillicons.dev/icons?i=pytorch,sklearn&perline=6&theme=light)](https://skillicons.dev)
 
 ### ⚙️ Tools & Environment
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,git,gitlab,vscode,gcc,cmake&perline=7&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,git,gitlab,vscode,anacoda,cmake&perline=7&theme=light)](https://skillicons.dev)
 
 ---
 
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VeasnaRa&show_icons=true&theme=dracula" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeasnaRa&layout=compact&theme=dracula" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VeasnaRa&show_icons=true&theme=dracula&count_private=true&cache_seconds=1800" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeasnaRa&layout=compact&theme=dracula&cache_seconds=1800" height="160"/>
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=VeasnaRa&theme=dracula&hide_border=true" height="160"/>
+</p>
+
 
 ---
 
@@ -49,10 +54,3 @@
 
 ---
 
-## 🟡 Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VeasnaRa/VeasnaRa/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VeasnaRa/VeasnaRa/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/VeasnaRa/VeasnaRa/output/pacman-contribution-graph.svg">
-</picture>
