@@ -23,16 +23,13 @@
 ## 🛠️ Skills & Technologies
 
 ### 💻 Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,ocaml,r&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,ocaml,r,postgres,html,css&perline=9&theme=light)](https://skillicons.dev)
 
 ### 📊 Data Science & Machine Learning
-[![My Skills](https://skillicons.dev/icons?i=pytorch,numpy,pandas&perline=6)](https://skillicons.dev)
-
-### 🗄️ Databases & Web
-[![My Skills](https://skillicons.dev/icons?i=postgresql,html,css&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pytorch,sklearn&perline=6&theme=light)](https://skillicons.dev)
 
 ### ⚙️ Tools & Environment
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,git,gitlab,vscode,gcc,cmake&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,git,gitlab,vscode,gcc,cmake&perline=7&theme=light)](https://skillicons.dev)
 
 ---
 
@@ -47,10 +44,8 @@
 
 ## 🌐 Connect with Me
 
-[![Socials](https://skillicons.dev/icons?i=linkedin,discord&perline=5)](https://skillicons.dev)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/veasna-ra/)
 
-- 💼 **LinkedIn**: [https://www.linkedin.com/in/veasna-ra/](https://www.linkedin.com/in/veasna-ra/)
-- 💬 **Discord**: `veasnara.`
 
 ---
 
