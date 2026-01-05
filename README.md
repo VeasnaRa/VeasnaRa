@@ -17,7 +17,7 @@
 ## 🛠️ Skills & Technologies
 
 ### 💻 Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,ocaml,r,postgres,html,css&perline=9&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,r,java,ocaml,postgres,html,css&perline=9&theme=light)](https://skillicons.dev)
 
 ### ⚙️ Tools & Environment
 [![My Skills](https://skillicons.dev/icons?i=linux,bash,git,gitlab,vscode,anaconda,cmake&perline=7&theme=light)](https://skillicons.dev)
