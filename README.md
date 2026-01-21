@@ -29,7 +29,8 @@
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/veasna-ra/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Veasna%20Ra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veasna-ra/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-veasnara.github.io-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://veasnara.github.io/)
 
 ---
 
