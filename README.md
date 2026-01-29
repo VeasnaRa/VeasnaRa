@@ -45,6 +45,9 @@
  -->
 ---
 
+## 📈 GitHub Stats
+<img src="https://github-readme-stats-zeta.vercel.app/api/top-langs/?username=VeasnaRa&layout=compact" />
+
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Veasna%20Ra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veasna-ra/)
