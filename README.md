@@ -5,8 +5,6 @@
   Curious, motivated, and always eager to learn and tackle new challenges 🚀
 </p>
 
----
-
 ## 👨‍🎓 About Me
 
 📚 Engineering student in Applied Mathematics at **École Nationale Supérieure d’Informatique pour l’Industrie et l’Entreprise (ENSIIE)**  
@@ -22,9 +20,29 @@
 ### ⚙️ Tools & Environment
 [![My Skills](https://skillicons.dev/icons?i=linux,bash,git,gitlab,vscode,anaconda,cmake&perline=7&theme=light)](https://skillicons.dev)
 
-### 📊 Data Science & Machine Learning
-[![My Skills](https://skillicons.dev/icons?i=pytorch,sklearn&perline=6&theme=light)](https://skillicons.dev)
+### 📊 Data Science, ML & AI
+[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&perline=6&theme=light)](https://skillicons.dev)
 
+
+<!-- For center icons
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,r,java,ocaml,postgres,html,css&perline=9&theme=light" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,bash,git,gitlab,vscode,anaconda,cmake&perline=7&theme=light" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&perline=6&theme=light" />
+  </a>
+</p>
+ -->
 ---
 
 ## 🌐 Connect with Me
